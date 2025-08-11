@@ -2,7 +2,7 @@
 This script should allow you to book automatically sessions on octiv using your JWT token which is valid for 1 year.
 Meaning that you will have to change the token each year.
 # Requirements
-1. You will need a Linux server or a machine that is always on with python > 3.12
+1. You will need a Linux server or a machine that is always on with python > 3.10
 2. Have access to the crontab -e on the machine.
 3. Access to an octiv account.
 4. JWT token which you should be able to get from your browser.
